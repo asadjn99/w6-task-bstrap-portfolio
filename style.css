@@ -150,10 +150,10 @@ body > section.sec-3.mt-5 > div > div > div.col-md-6.mt-3.mt-md-auto > div > p.a
      color: white;
 }
 
-
+/* 
 #js-ass .custom-css{
-    box-shadow: rgba(255, 165, 0, 0.3) 0px 0px 0px 3px;
-}
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 0px 0.5px;
+} */
 
 #footer .container-fluid{
     background-color: #F5FCFF;
